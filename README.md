@@ -1,6 +1,6 @@
 # CreditCard-Pickle-ML
 # Lab -- Pickling ML Models Learning objectives: 
-## at the completion of the next few labs, have done all of the following: 
+at the completion of the next few labs, have done all of the following: 
 Fit a ML model pipeline, and pickle it. 
 Create a Flask app that loads the pickled model pipeline. 
 Create a Flask route that receives a JSON request with new data, and returns a prediction for the new data fed against the model. 
